@@ -33,5 +33,7 @@ For more info read quide in [telegram-dialogs-analysis-v2](https://github.com/Sa
 
 
 ### 3. Analyze Data
-To view my ideas and process: run ```my-data-analysis/behaviour_patterns_exploration.ipynb``` file.<br>
-Modify code as you like to perform your own deep data analysis)
+To view my ideas and process: run ```my-data-analysis/behaviour_patterns_exploration.ipynb``` file.<br><br>
+
+#### Modify code as you like to perform your own deep data analysis) 
+#### Now it is Your time!
