@@ -1,6 +1,6 @@
 # Telegram Dialogs Data Analysis: Step-by-Step Guide
 How to complete an interesting project with just basic knowledge of Python and pandas.<br>
-Used helpful repositories [telegram-dialogs-analysis-v2](https://github.com/SanGreel/telegram-dialogs-analysis-v2) and [telegram-data-collection](https://github.com/SanGreel/telegram-data-collection).
+Used helpful repositories [telegram-data-collection](https://github.com/SanGreel/telegram-data-collection) and [telegram-dialogs-analysis-v2](https://github.com/SanGreel/telegram-dialogs-analysis-v2).
 
 ## How can this project help on your path?
 *Consists of three steps to download and use your dialogs data from telegram app.<br> 
