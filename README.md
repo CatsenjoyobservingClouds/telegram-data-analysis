@@ -1,5 +1,6 @@
 # Telegram Dialogs Data Analysis: Step-by-Step Guide
-How to complete an interesting project with just basic knowledge of Python and pandas.
+How to complete an interesting project with just basic knowledge of Python and pandas.<br>
+Used helpful repositories [telegram-dialogs-analysis-v2](https://github.com/SanGreel/telegram-dialogs-analysis-v2) and [telegram-data-collection](https://github.com/SanGreel/telegram-data-collection).
 
 ## How can this project help on your path?
 *Consists of three steps to download and use your dialogs data from telegram app.<br> 
@@ -27,7 +28,9 @@ Compile and prepare your data for easier use later on. <br>
 Furthermore, take first steps into its analysis.<br>
 
 Go to ```data-preparing-and-preview``` folder. Merge data by running all cells in ```0_merge_data.ipynb``` (through anaconda - jupyter notebook as a variant). <br>
-Make a quick look through your data by running ```1_data_review.ipynb```.
+Make a quick look through your data by running ```1_data_review.ipynb```.<br>
+For more info read quide in [telegram-dialogs-analysis-v2](https://github.com/SanGreel/telegram-dialogs-analysis-v2) repository from [SanGreel(https://github.com/SanGreel).
+
 
 ### 3. Analyze Data
 To view my ideas and process: run ```my-data-analysis/behaviour_patterns_exploration.ipynb``` file.<br>
